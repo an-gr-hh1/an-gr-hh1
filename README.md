@@ -1,7 +1,5 @@
 <div align="center">
-  <!-- Hero Section -->
   <div style="max-width: 1920px; max-height: 1080px;">
-    <!-- Top Images Row -->
     <p align="center">
       <img src="assets/Developer.png" alt="Developer" width="120" height="60" align="left" />
       <img src="assets/github.png" alt="Github Profile" width="120" height="60" align="right" />
@@ -21,36 +19,38 @@
 
   <!-- Description Section (Add your content here) -->
   <h3 align="left">About me:</h3>
-  <p align="left"></p>
+  <p align="left">
+    Enthusiastic B.Tech graduate with a strong coding foundation, now focused on exploring the exciting intersection of AI/ML and cloud technologies. Driven and dedicated to continuous growth in these fields.
+    <br/>
+    THINK. MAKE. SOLVE
+  </p>
 
 </div>
 
-<!-- Connect Section -->
+
 <h3 align="left">Connect with me:</h3>
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/annnn)
-[![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/annnn)
-[![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/anhhh)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/aaaaa)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anugrahpr)
+[![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23872888/meep-morp-zeep)
+[![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/anugrahpremachandran)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/an_gr_hh._)
 
 </div>
-
-<!-- Animated Connection Section (Optional Enhancement) -->
 <div align="center">
 <table>
   <tr>
     <td>
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2986CC&width=435&lines=Full+Stack+Developer;Mobile+App+Developer;Machine+Learning+Enthusiast;Always+learning+new+things" alt="Typing SVG" />
+      <img src="assets/wave.gif" alt="Waving SVG" />
     </td>
     <td>
-      <a href="mailto:your.email@example.com">
+      <a href="mailto:anugrahp268@gmail.com">
         <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
       </a><br />
-      <a href="https://github.com/yourusername?tab=followers">
+      <a href="https://github.com/an-gr-hh1?tab=followers">
         <img src="https://img.shields.io/badge/Follow-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Follow" />
       </a><br />
-      <a href="https://dev.to/yourusername">
+      <a href="https://dev.to/an_gr_hh_p">
         <img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" />
       </a>
     </td>
