@@ -7,7 +7,7 @@
       <img src="assets/Developer_line.png" alt="Develope" style="width: 120px; height: 60px;">
     </div>
     <img src="assets/welcome_1080p.gif" alt="welcome message" style="width: 50%; margin-bottom: 30px;">
-    <img src="assets/Name_5s.gif" alt="Profile name" style="width: 60%;">
+    <img src="assets/Name.gif" alt="Profile name" style="width: 60%;">
   </div>
 
   <!-- Description Section (Add your content here) -->
