@@ -23,7 +23,7 @@
     Enthusiastic B.Tech graduate with a strong coding foundation, now focused on exploring the exciting intersection of AI/ML and cloud technologies. Driven and dedicated to continuous growth in these fields.
   </p>
   <br/>
-  <p align="center" style="font-weight: 500">
+  <p align="center" style="font-weight: 700; font-size: 20px">
     THINK. MAKE. SOLVE
   </p>
 
@@ -43,7 +43,7 @@
 <table>
   <tr>
     <td>
-      <img src="assets/wave.gif" alt="Waving SVG" />
+      <img src="assets/wave.gif" alt="Waving SVG" style="width: 50%;"/>
     </td>
     <td>
       <a href="mailto:anugrahp268@gmail.com">
