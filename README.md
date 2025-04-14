@@ -1,8 +1,8 @@
 <div align="center">
   <!-- Hero Section -->
-  <div style="max-width: 1920px; max-height: 1080px; margin: 0 auto;">
+  <div style="max-width: 1920px; max-height: 1080px;">
     <!-- Top Images Row -->
-    <p align="center" style="margin-bottom: 100px">
+    <p align="center" style="margin-bottom: 200px">
       <img src="assets/Developer.png" alt="Developer" width="120" height="60" align="left" />
       <img src="assets/github.png" alt="Github Profile" width="120" height="60" align="right" />
     </p>
