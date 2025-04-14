@@ -2,16 +2,10 @@
   <!-- Hero Section -->
   <div style="max-width: 1920px; max-height: 1080px; margin: 0 auto;">
     <!-- Top Images Row -->
-    <table width="100%">
-      <tr>
-        <td align="left">
-          <img src="assets/Developer.png" alt="Developer" style="width: 120px; height: 60px;" />
-        </td>
-        <td align="right">
-          <img src="assets/github.png" alt="Github Profile" style="width: 120px; height: 60px;" />
-        </td>
-      </tr>
-    </table>
+    <p align="center" style="margin-bottom: 100px">
+      <img src="assets/Developer.png" alt="Developer" width="120" height="60" align="left" />
+      <img src="assets/github.png" alt="Github Profile" width="120" height="60" align="right" />
+    </p>
     <img src="assets/welcome_1080p.gif" alt="welcome message" style="width: 70%; margin-bottom: 50px;">
     <img src="assets/Name.gif" alt="Profile name" style="width: 80%;">
   </div>
