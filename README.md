@@ -3,10 +3,10 @@
   <div style="max-width: 1920px; max-height: 1080px; margin: 0 auto;">
     <!-- Top Images Row -->
     <div style="display: flex; flex-direction: row; justify-content: space-between; padding: 0 10%; margin-bottom: 20px;">
-      <img src="assets/github.png" alt="Github Profile" style="width: 120px; height: 60px;">
-      <img src="assets/Developer.png" alt="Develope" style="width: 120px; height: 60px;">
+      <img src="assets/Developer.png" alt="Develope" style="width: 120px; height: 60px; margin-right: 200px">
+      <img src="assets/github.png" alt="Github Profile" style="width: 120px; height: 60px; margin-left: 200px">
     </div>
-    <img src="assets/welcome_1080p.gif" alt="welcome message" style="width: 70%; margin-bottom: 30px;">
+    <img src="assets/welcome_1080p.gif" alt="welcome message" style="width: 70%; margin-bottom: 50px;">
     <img src="assets/Name.gif" alt="Profile name" style="width: 80%;">
   </div>
 
