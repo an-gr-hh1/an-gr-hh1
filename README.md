@@ -27,16 +27,41 @@
 
 <!-- Connect Section -->
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/annnn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="annnn" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/annnn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="annnn" height="30" width="40" /></a>
-<a href="https://kaggle.com/anhhh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="anhhh" height="30" width="40" /></a>
-<a href="https://instagram.com/aaaaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aaaaa" height="30" width="40" /></a>
-</p>
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/annnn)
+[![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/annnn)
+[![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/anhhh)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/aaaaa)
+
+</div>
+
+<!-- Animated Connection Section (Optional Enhancement) -->
+<div align="center">
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
+    </td>
+    <td>
+      <a href="mailto:your.email@example.com">
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+      </a><br />
+      <a href="https://github.com/YOURUSERNAME">
+        <img src="https://img.shields.io/badge/Follow-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Follow" />
+      </a><br />
+      <a href="https://twitter.com/YOURTWITTERHANDLE">
+        <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 
 <!-- Languages & Tools Section -->
-<h3 align="left">⚡ Tech Stack</h3>
+<h3 align="left">Tech Stack:</h3>
 <div align="center">
 
 ### 🧠 Languages
