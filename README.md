@@ -2,12 +2,21 @@
   <!-- Hero Section -->
   <div style="max-width: 1920px; max-height: 1080px;">
     <!-- Top Images Row -->
-    <p align="center" style="margin-bottom: 200px">
+    <p align="center">
       <img src="assets/Developer.png" alt="Developer" width="120" height="60" align="left" />
       <img src="assets/github.png" alt="Github Profile" width="120" height="60" align="right" />
     </p>
-    <img src="assets/welcome_1080p.gif" alt="welcome message" style="width: 70%; margin-bottom: 50px;">
-    <img src="assets/Name.gif" alt="Profile name" style="width: 80%;">
+    <br clear="both"/>
+    <br/>
+    <br/>
+    <p align="center">
+      <img src="assets/welcome_1080p.gif" alt="welcome message" style="width: 70%;">
+    </p>
+    <br/>
+    <br/>
+    <p align="center">
+      <img src="assets/Name.gif" alt="Profile name" style="width: 80%;">
+    </p>
   </div>
 
   <!-- Description Section (Add your content here) -->
