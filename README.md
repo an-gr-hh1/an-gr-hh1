@@ -21,7 +21,9 @@
   <h3 align="left">About me:</h3>
   <p align="left">
     Enthusiastic B.Tech graduate with a strong coding foundation, now focused on exploring the exciting intersection of AI/ML and cloud technologies. Driven and dedicated to continuous growth in these fields.
-    <br/>
+  </p>
+  <br/>
+  <p align="center" style="font-weight: 500">
     THINK. MAKE. SOLVE
   </p>
 
