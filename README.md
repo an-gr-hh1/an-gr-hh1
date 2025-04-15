@@ -43,7 +43,9 @@
 <table>
   <tr>
     <td>
-      <img src="assets/wave.gif" alt="Waving SVG" style="width: 50%;"/>
+      <p align="center">
+        <img src="assets/wave.gif" alt="Waving SVG" style="width: 50%;"/>
+      </p>
     </td>
     <td>
       <a href="mailto:anugrahp268@gmail.com">
